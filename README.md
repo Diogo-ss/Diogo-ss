@@ -3,7 +3,7 @@
 ### Iae Dev 🤯
 
 <p align="left"> 
-  Sou iniciante no mundo da programção, com foco no back-end.
+  Sou iniciante no mundo da programação, com foco no back-end.
 </p>
 
 <p align="left">
