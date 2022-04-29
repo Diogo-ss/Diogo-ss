@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>IntelliJ IDEA, VSCode, MySQL.</strong>
+  ⚒ Ferramentas: <strong>IntelliJ IDEA, VSCode, MySQL.</strong>
 </p>
 
 <p align="left">
