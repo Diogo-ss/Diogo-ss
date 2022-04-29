@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Java, SQL.</strong>
+• 💻 Linguagens: <strong>Java, SQL.</strong>
 </p>
 
 <p align="left">
-  ⚒ Ferramentas: <strong>IntelliJ IDEA, VSCode, MySQL.</strong>
+• ⚒ Ferramentas: <strong>IntelliJ IDEA, VSCode, MySQL.</strong>
 </p>
 <palign="left">
   <a href="#" alt="Java">
@@ -19,18 +19,28 @@
 
   <a href="#" alt="MySQL">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+  </div>
   
-  </p>
-  
+  ##
+ 
+<div> 
   <a href="#" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
   
   <a href="#" alt="VSCode">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
   
-  </p>
-
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=diogo-ss@mail.com" /></a>
+  <a href="#" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  
+  </div>
+  
+  ##
+  
+<div> 
+<a href="https://www.twitch.tv/Diogo_dy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:diogo-ss@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 </p>  
