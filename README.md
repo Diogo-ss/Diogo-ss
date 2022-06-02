@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-### Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3px">
+### Olá Dev <img src="" width="3px">
 
 <p align="left"> 
   🤯 Sou iniciante no mundo da programação, com foco no back-end.
