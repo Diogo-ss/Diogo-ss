@@ -12,3 +12,6 @@
 
 <p align="left">
 • ⚒: <strong>VSCode, MySQL.</strong>
+ </p>
+ <br />
+ <img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px">
