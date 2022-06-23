@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-• 💻: <strong>C, SQL.</strong>
+• 💻: <strong>C, SQL, VimScript.</strong>
 </p>
 
 <p align="left">
-• ⚒: <strong>VSCode, MySQL.</strong>
+• ⚒: <strong>Vim, VSCode, MySQL.</strong>
  </p>
  <br />
 <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
