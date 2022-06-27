@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-• 💻: <strong>C, SQL, VimScript.</strong>
+• 💻: <strong>C, SQL</strong>
 </p>
 
 <p align="left">
