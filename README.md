@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode">
 
 ### Hi, Dev <img src="" width="3px">
 
