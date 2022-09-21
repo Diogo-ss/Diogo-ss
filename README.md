@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-• 💻: <strong>C, SQL</strong>
+• 💻: <strong>C/C++, SQL</strong>
 </p>
 
 <p align="left">
