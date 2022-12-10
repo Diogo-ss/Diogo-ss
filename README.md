@@ -17,5 +17,5 @@
 
 <p align="left">
   <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
-  <img src="https://komarev.com/ghpvc/?username=Diogo-ss&color=a4bafd&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Diogo-ss&color=a4bafd&style=flat-square&label=🚀+views" />
 </p>
