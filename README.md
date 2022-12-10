@@ -14,8 +14,8 @@
 • ⚒: <strong>Vim, VSCode, MySQL.</strong>
  </p>
  <br />
-<a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Diogo-ss/count.svg" />
+<p align="center">
+  <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
+  <img src="https://komarev.com/ghpvc/?username=Diogo-ss&color=a4bafd&style=flat-square" />
 </p>
