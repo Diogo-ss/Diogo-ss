@@ -15,5 +15,3 @@
  </p>
  <br />
 <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
-
-[![visits](https://github-visit-counter.herokuapp.com/Diogo-ss/Diogo-ss/visits.svg)](#)
