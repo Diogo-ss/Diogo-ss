@@ -15,3 +15,7 @@
  </p>
  <br />
 <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Diogo-ss/count.svg" />
+</p>
