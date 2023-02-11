@@ -15,6 +15,12 @@
  </p>
  <br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,bash,linux,neovim,vscode,azure,git,docker,mysql,mongodb,flask" />
+  </a>
+</p>
+
 <p align="left">
   <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
   <img src="https://komarev.com/ghpvc/?username=Diogo-ss&color=a4bafd&style=flat-square&label=🚀+views" />
