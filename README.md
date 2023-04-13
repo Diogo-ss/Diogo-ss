@@ -2,18 +2,13 @@
 
 ### Hi, Dev!
 
-<p align="left"> 
   🤯 I'm a beginner in the programming world, focusing on the backend.
 </p>
 
-<p align="left">
-• 💻: <strong>C/C++, SQL</strong>
+• 💻: <strong> C/C++ </strong>
 </p>
 
-<p align="left">
-• ⚒: <strong>Vim, VSCode, MySQL.</strong>
- </p>
- <br />
+• 🌐: [Site](https://diogosilva.dev)
 
 <p align="left">
   <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
