@@ -1,11 +1,5 @@
 <img src="https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif" min-width="300px" max-width="300px" width="200px" align="right" alt="Computador iuriCode">
 
-### Hi, Dev!
-</p>
-• 💻: <strong> C/C++ </strong>
-</p>
+### Hey, I’m Diogo
 
-<p align="left">
-  <a href = "https://www.codewars.com/users/Diogo-ss"><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
-  <img src="https://komarev.com/ghpvc/?username=Diogo-ss&color=a4bafd&style=flat-square&label=🚀+views" />
-</p>
+I’m a backend developer with a strong interest in low-level development and Linux. I focus on studying C, C++, and Lua languages.
